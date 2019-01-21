@@ -10,3 +10,11 @@ def move_line(speed, ticks):
 	bmd(R)
 	bmd(L)
 
+def spin_right(speed, ticks):
+	mrp(L, speed, ticks)
+	bmd(L)
+
+def spin_left(speed, ticks):
+	mrp(R, speed, ticks)
+	bmd(R)
+

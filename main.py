@@ -2,6 +2,7 @@
 import os, sys
 from wallaby import *
 from effectors import *
+from sensor-lib import *
 from move_wallaby import *
 def main():
 	enable_servos()

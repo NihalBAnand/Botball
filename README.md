@@ -6,5 +6,7 @@ The **lib** file is for our libraries, including sensors, movement functions, an
 Stuff outside of that file is *point-scoring*, meaning that it programs the movements of the robot in order to score points, using the libraries.
 
 Have any issues? Open an issue, and we'll solve it.
+
 Thanks,
+
 The programming crew

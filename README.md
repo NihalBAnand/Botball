@@ -7,4 +7,4 @@ Stuff outside of that file is *point-scoring*, meaning that it programs the move
 
 Have any issues? Open an issue, and we'll solve it.
 Thanks,
-The programming crew
+The programming crew of team 19-0183
